@@ -48,5 +48,5 @@ jobs:
           automatic_release_tag: latest
           title: "ReduceMIUI Latest"
           files: |
-            ./release/*
+            ./ReduceMIUI.zip
 
