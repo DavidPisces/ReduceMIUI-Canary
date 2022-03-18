@@ -13,7 +13,8 @@ else
 fi
 cd ReduceMIUI
 # Package
-zip -r ./release/ReduceMIUI.zip *
+zip -r ReduceMIUI.zip *
+cp -r ReduceMIUI.zip ./release/
 cd ..
 # Clean
 rm -rf ./ReduceMIUI
