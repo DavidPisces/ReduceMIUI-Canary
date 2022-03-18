@@ -11,7 +11,9 @@ if [ ! -d "$RELEASE_PATH" ]; then
 else
     rm -rf release/*
 fi
+cd ReduceMIUI
 # Package
-zip -r ./release/ReduceMIUI.zip ./ReduceMIUI/*
+zip -r ./release/ReduceMIUI.zip *
+cd ..
 # Clean
 rm -rf ./ReduceMIUI
