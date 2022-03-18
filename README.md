@@ -12,7 +12,7 @@
 
 如果您需要下载最新版本的 [ReduceMIUI](https://github.com/DavidPisces/ReduceMIUI) 模块，请点击下面的链接
 
-[Release 下载]()
+[Release 下载](https://github.com/DavidPisces/ReduceMIUI-Canary/releases/tag/latest)
 
 主仓库地址:
 
