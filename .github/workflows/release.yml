@@ -33,7 +33,7 @@ jobs:
     - name: Commit
       run: |
           git add .
-          git commit -m "Action Build test" 
+          git commit -m "Action Build" 
     - name: Push commits
       uses: ad-m/github-push-action@master
       with:
