@@ -1,5 +1,7 @@
 # ReduceMIUI-Canary
   
+![](https://img.shields.io/github/license/DavidPisces/ReduceMIUI-Canary)
+
 
  ### 这个仓库是主仓库 [ReduceMIUI](https://github.com/DavidPisces/ReduceMIUI) 的自动构建仓库
  ### 本仓库的作用仅为使用Github Action**自动定时**构建Magisk模块，除修改工作流及处理脚本外**无人为干涉**
