@@ -5,8 +5,8 @@ git config --global user.name "泠洛"
 # Clone respository
 git clone https://github.com/DavidPisces/ReduceMIUI
 # Clean work directory
-mkdir release
-rm -rf release/*
+rm -rf ./release
+mkdir ./release
 cd ReduceMIUI
 # Package
 zip -r ReduceMIUI.zip *
